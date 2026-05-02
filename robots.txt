@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://antidetect-browser-expert.github.io/sitemap.xml
